@@ -1,0 +1,1 @@
+In this chapter we see the basics operations performe using torch. 
